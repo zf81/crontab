@@ -12,8 +12,8 @@ Pull data at the end of every quarter
 
 
 Created a VM through Azure (CRON_scratchmachine_group)
-Used VM IP, username, and password to connect to VM through own terminal
-sudo apt-get update
+Used IP address of VM, username, and password to connect to VM on local terminal
+$ sudo apt-get update
 git clone (inserted URL of repository)
 $ crontab -h
 $ ls -l
