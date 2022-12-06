@@ -11,7 +11,7 @@ Pull data at the end of every quarter
 0 0 1 */3 * /user/bin/python3 /home/fizzahzaidi/crontab/healthAlz.py > log.txt 2<&1 &   
 
 
-Created a VM through Azure (CRON_scratchmachine_group)
+Created a VM through Azure (CRON_scratchmachine_group) <br>
 Used IP address of VM, username, and password to connect to VM on local terminal
 $ sudo apt-get update
 git clone (inserted URL of repository)
